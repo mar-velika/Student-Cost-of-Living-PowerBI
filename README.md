@@ -9,9 +9,9 @@ in the student's own currency.
 - Which states are cheaper?
 
 ## Preview
-![Budget simulator](docs/page1-budget-simulator.png)
-![Prices over time](docs/page2-prices-over-time.png)
-![Where is cheaper](docs/page3-where-is-cheaper.png)
+![Budget simulator](docs/page1-budget-simulator.jpg)
+![Prices over time](docs/page2-prices-over-time.jpg)
+![Where is cheaper](docs/page3-where-is-cheaper.jpg)
 
 ## Data sources
 | Data | Source |
