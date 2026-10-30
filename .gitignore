@@ -1,1 +1,15 @@
+   # Raw data downloads
+   data/raw/
+   *.csv
 
+   # Excel temporary lock files
+   ~$*.xlsx
+   ~$*.xls
+
+   # Operating system files
+   .DS_Store
+   Thumbs.db
+   desktop.ini
+
+   # Power BI Project cache
+   .pbi/
